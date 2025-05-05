@@ -1,5 +1,6 @@
 **📚 School Management System – Java Mini Project
-✅ Project Description**
+
+**✅ Project Description**
 A console-based application that simulates school operations.
 
 Developed using Java and core Object-Oriented Programming (OOP) concepts.
